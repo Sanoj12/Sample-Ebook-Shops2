@@ -1,4 +1,4 @@
 # Sample-Ebook-Shops2
 
 
-https://github.com/Sanoj12/Sample-Ebook-Shops2
+https://sanoj12.github.io/Sample-Ebook-Shops2/
